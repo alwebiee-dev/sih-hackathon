@@ -1,0 +1,88 @@
+{
+    "placeLocation":[
+        {
+            "id": 1,
+            "name": "The Metropolitan Museum of Art",
+            "label": "Museum",
+            "category": "Museum",
+            "rating": 4.8,
+            "reviews": 12453,
+            "hours": "10:00 AM - 5:00 PM",
+            "image":"https://images.unsplash.com/photo-1575223970966-76ae61ee7838?w=300&h=200&fit=crop",
+            "lng": -73.9632,
+            "lat": 40.7794
+        },
+        {
+            "id": 2,
+            "name": "NaaSuvai",
+            "label": "NaaSuvai",
+            "category": "Restaurant",
+            "rating": 4.5,
+            "reviews": 12453,
+            "hours": "Open 24 hours",
+            "image":"https://www.justdial.com/Bangalore/Naasuvai-Near-Iamgame-Koramangala-8Th-Block/080PXX80-XX80-250102202053-P1W6_BZDET",
+            "lng":77.6265,
+            "lat":12.9345
+        },
+        {
+            "id": 3,
+            "name": "Truffles",
+            "label": "Truffles",
+            "category": "Restaurant",
+            "rating": 4.5,
+            "reviews": 50975,
+            "hours": "Open 24 hours",
+            "image": "https://www.makemytrip.com/tripideas/attractions/truffles-koramangala",
+            "lng": 77.614318,
+            "lat": 12.9335323
+        },
+        {
+            "id": 4,
+            "name": "The Reservoire",
+            "label": "The Reservoire",
+            "category": "Restaurant",
+            "rating": 4.3,
+            "reviews": 15879,
+            "hours": "Open 24 hours",
+            "image": "https://www.zomato.com/bangalore/the-reservoire-koramangala-5th-block",
+            "lng": 77.617,
+            "lat": 12.934
+        },
+        {
+            "id": 5,
+            "name": "Xero Degrees",
+            "label": "Xero Degrees",
+            "category": "Restaurant",
+            "rating": 4.7,
+            "reviews": 8364,
+            "hours": "Open 24 hours",
+            "image": "https://www.justdial.com/Bangalore/Xero-Degrees-Koramangala-Layout-Koramangala/080PXX80-XX80-230304120710-V7E5_BZDET",
+            "lng": 77.617,
+            "lat": 12.935
+        },
+        {
+            "id": 6,
+            "name": "Nandhana Palace",
+            "label": "Nandhana Palace",
+            "category": "Restaurant",
+            "rating": 4.4,
+            "reviews": 10778,
+            "hours": "Open 24 hours",
+            "image": "https://www.weddingbazaar.com/wedding-venues/bangalore/nandhana-palace-koramangala",
+            "lng": 77.620,
+            "lat": 12.935
+        },
+        {
+            "id": 7,
+            "name": "Dyu Art Cafe",
+            "label": "Dyu Art Cafe",
+            "category": "Restaurant",
+            "rating": 4.4,
+            "hours": "Open 24 hours",
+            "reviews": 21247,
+            "image": "https://www.district.in/dining/bangalore/dyu-art-cafe-koramangala-8th-block-bangalore?srsltid=AfmBOop8zZPo7PTW7JLcZ0Si87yRAePxkKRKbyKQJvznvby_RdANUyhT",
+            "lng": 77.625,
+            "lat": 12.938
+        }
+    ]
+}
